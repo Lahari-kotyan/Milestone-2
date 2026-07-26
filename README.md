@@ -17,7 +17,7 @@ The main objective is to load, explore, clean, transform, and store a real-world
 The dataset contains details about restaurants in Bangalore such as restaurant name, location, cuisine, ratings, cost, online ordering, and table booking information.
 
 **Dataset Link:**
-(Add Kaggle dataset URL)
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 ---
 
